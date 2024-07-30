@@ -2,4 +2,4 @@
 
 Hej Verden
 
-Verden bliver styret af PMAD
+Verden bliver styret af JOHN
