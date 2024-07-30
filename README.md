@@ -3,3 +3,6 @@
 Hej Verden
 
 Verden bliver styret af JOHN
+
+
+Denne fil bliver brugt til dokumentation
